@@ -5,15 +5,11 @@
 
 - 🔭 I’m currently working on [Todo + Pomodoro app for students](https://github.com/Sodaguyprime/To-do-project)
 
-- 🌱 I’m currently learning **React and Backend engineering**
+- 🌱 I’m learning **React and Backend engineering**
 
-- 👯 I’m looking to collaborate on **Full Stack projects**
+- 📫 Contact me on **ammarisahmed@gmail.com** or through my linkedln below :D
 
-- 💬 Ask me about **React and Webstack**
-
-- 📫 How to reach me **ammarisahmed@gmail.com**
-
-- ⚡ Fun fact **i love cola :3 **
+- ⚡ Fun fact <strong>i love cola :3 <strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
