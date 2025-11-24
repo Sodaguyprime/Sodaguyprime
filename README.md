@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ammar (aka sodaguy)</h1>
+<h1 align="center">Hi 👋, I'm Ammar</h1>
 <h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodaguyprime&label=Profile%20views&color=0e75b6&style=flat" alt="sodaguyprime" /> </p>
 
-- 🔭 I’m currently working on [Todo + pomodoro app for students](https://github.com/Sodaguyprime/To-do-project)
+- 🔭 I’m currently working on [Todo + Pomodoro app for students](https://github.com/Sodaguyprime/To-do-project)
 
 - 🌱 I’m currently learning **React and Backend engineering**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ammarisahmed@gmail.com**
 
-- ⚡ Fun fact **I LOVE SODAs**
+- ⚡ Fun fact **i love cola :3 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
