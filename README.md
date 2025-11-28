@@ -6,13 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodaguyprime&label=Profile%20views&color=0e75b6&style=flat" alt="sodaguyprime" /> </p>
 
-- 🔭 I’m currently working on [Todo + Pomodoro app for students](https://github.com/Sodaguyprime/To-do-project)
+🔭 I’m currently working on [Todo + Pomodoro app for students](https://github.com/Sodaguyprime/To-do-project)
 
-- 🌱 I’m learning **React and Backend engineering**
+🌱 I’m learning **React and Backend engineering**
 
-- 📫 Contact me on **ammarisahmed@gmail.com** or through my linkedln below :D
+📫 Contact me on **ammarisahmed@gmail.com** or through my linkedln below :D
 
-- ⚡ Fun fact <strong>i love cola :3 <strong>
+⚡ Fun fact: <strong>i love cola :3 <strong>
+
+🎓 BSC in Software Engineering and Still Learning(and probably forever)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
