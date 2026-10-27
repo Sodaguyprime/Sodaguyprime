@@ -23,6 +23,15 @@
 
 🎓 BSC in Software Engineering and Still Learning(and probably forever)
 
+<h3 align="left">Experience:</h3>
+
+| Role | Company | Date |
+|---|---|---|
+| 💼 Frontend Development — Practicum Program | Mayerfeld | Apr 2026 |
+| 💼 Front-End React Intern | Elevvo | Feb – Mar 2026 |
+| 💼 Software Engineering Virtual Experience | Electronic Arts | Jan 2026 |
+| 💼 Full Stack and IoT Engineer Intern | Near East University IoT R&D Centre | Jun – Aug 2025 |
+
 <h3 align="left">Projects:</h3>
 <table>
   <tr>
@@ -41,8 +50,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://watch-together-neon.vercel.app"><img src="./assets/projects/watchu-pati.jpg" alt="Watchu Pati" /></a>
-      <h4><a href="https://watch-together-neon.vercel.app">Watchu Pati</a></h4>
+      <a href="https://github.com/Sodaguyprime/watch-together"><img src="./assets/projects/watchu-pati.jpg" alt="Watchu Pati" /></a>
+      <h4><a href="https://github.com/Sodaguyprime/watch-together">Watchu Pati</a></h4>
       Watch movies, play games and chat together with friends.<br/>
       <sub>TypeScript</sub>
     </td>
@@ -56,11 +65,30 @@
 </table>
 
 <h3 align="left">Certifications:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-Basics-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Basics" />
-  <img src="https://img.shields.io/badge/MongoDB-CRUD-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB CRUD" />
-  <img src="https://img.shields.io/badge/MongoDB-Relational_to_Document-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Relational to Document" />
-  <img src="https://img.shields.io/badge/React.js-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-</p>
+
+| | Certificate | Issuer | Date |
+|---|---|---|---|
+| ⚛️ | Modern React from The Beginning | Udemy | Aug 2025 |
+| 🤖 | Solace Certified Agent Mesh Practitioner | Solace | Dec 2025 |
+| 🍃 | MongoDB CRUD Operations | MongoDB | Oct 2025 |
+| 🍃 | MongoDB: From Relational Model to Document Model | MongoDB | Oct 2025 |
+| 🤖 | GitHub Copilot Prompt Engineering | GitHub | Oct 2025 |
+
+<details>
+<summary>Show all certifications</summary>
+
+| | Certificate | Issuer | Date |
+|---|---|---|---|
+| 🍃 | MongoDB Database Basics | MongoDB | Oct 2025 |
+| 🤖 | Solace Agent Mesh Foundations | Solace | Dec 2025 |
+| 🤖 | GitHub Copilot: Code Smarter | GitHub | Oct 2025 |
+| 🤖 | Enhanced Development with GitHub Copilot Integration | GitHub | Oct 2025 |
+| 🤖 | Transform Your Code: GitHub Copilot Magic | GitHub | Oct 2025 |
+| 🏆 | CIU Hackathon 2025 — Participation | Cyprus International University | May 2025 |
+| 🎓 | Engineering Honour List | Cyprus International University | Jun 2024 |
+
+</details>
+
+<sub>See the full certificates on my <a href="https://ammarahmed-portfolio.vercel.app">portfolio</a>.</sub>
 
 <img src="https://raw.githubusercontent.com/Sodaguyprime/Sodaguyprime/snake-output/snake.svg" alt="Snake animation" />
